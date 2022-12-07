@@ -1,6 +1,6 @@
 ## Hi there, Kanz profile here 👋
 
-Hope you doing well :D
+Hope you doing well :D Thanks for checking out my profile <3
 
 Here is some info about me:
 ---
