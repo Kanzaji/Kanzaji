@@ -2,7 +2,7 @@
 Hope you doing well :D
 
 - 👀 My real name is similar to Kanz, maybe a bit different, but you can call me Kanz in real life as well 😄
-- 🎉 I'm part of the (@EnigmaticaModpacks)[https://github.com/EnigmaticaModpacks] team (Aka: Contributor that does some stuff ^^) and I'm proud of this!
+- 🎉 I'm part of the [@EnigmaticaModpacks](https://github.com/EnigmaticaModpacks) team (Aka: Contributor that does some stuff ^^) and I'm proud of this!
 - 🔭 I’m currently working on few projects at once 😋 Just check my popular respositories / Projects page!
 - 🌱 I’m currently learning, you guessed it, Java! (And some other stuff as well, but that's less important)
 - ⚡ Fun fact: My first project in Java was created by just looking at one projects code, without even learning basics of Java ^^
