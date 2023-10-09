@@ -9,7 +9,9 @@ Here is some info about me:
 - 🔭 I’m currently working on few projects at once 😋 Just check my popular respositories / Projects page for details!
 - 🌱 I’m currently learning pretty much everything, but I'm focusing on Java! Also learning JS / TS / Lua / C# / CPP / HTML Stuff and everything else I need to do my crazy projects. 
 - ⚡ Fun fact: My [first project in Java](https://github.com/Kanzaji/Cat-Downloader-Legacy) was created by just looking at one projects code, without even learning basics of Java from tutorials!
-- 📫 How to reach me: @kanzaji on Discord
+- 📫 How to reach me:
+- Discord: @kanzaji
+- Mail: kanzaji@kanzaji.com
 ---
 
 Alternative link to this site: https://kanzaji.com
